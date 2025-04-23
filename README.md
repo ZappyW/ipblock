@@ -23,5 +23,5 @@ Bu script'i çalıştırabilmek için aşağıdaki araçların kurulu olması ge
 
 1. Projeyi klonlayın:
    ```bash
-   git clone https://github.com/kullaniciAdi/hostingkirala.git
+   git clone https://github.com/ZappyW/ipblock.git
    cd hostingkirala
