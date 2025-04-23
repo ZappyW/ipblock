@@ -8,14 +8,14 @@ NC='\033[0m' # No Color
 # ASCII Logo
 clear
 echo -e "${RED}"
-echo "██╗  ██╗██╗   ██╗"
-echo "██║ ██╔╝╚██╗ ██╔╝"
-echo "█████╔╝  ╚████╔╝ "
-echo "██╔═██╗   ╚██╔╝  "
-echo "██║  ██╗   ██║   "
-echo "╚═╝  ╚═╝   ╚═╝   "
+echo "██╗  ██╗██╗  ██╗"
+echo "██║ ██╔╝██║ ██╔╝"
+echo "█████╔╝ █████╔╝ "
+echo "██╔═██╗ ██╔═██╗ "
+echo "██║  ██╗██║  ██╗"
+echo "╚═╝  ╚═╝╚═╝  ╚═╝"
 echo -e "${NC}"
-echo -e "${GREEN}Hostingkirala unblock script çalışıyor...${NC}"
+echo -e "${GREEN}Hostingkirala script başlatılıyor...${NC}"
 
 for i in {1..3}; do
     echo -n "."
